@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\bart\Desktop\zooprojekt\zooprojekt\</FILEPATH>
+      <FILENAME>Bilet.cpp</FILENAME>
+      <LINE>10</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>Ten rodzaj funkcji nie powinna zgłaszać (throw). Zadeklaruj ją jako 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>Bilet::{ctor}</FUNCTION>
+    <DECORATED>??0Bilet@@QEAA@$$QEAV0@@Z</DECORATED>
+    <FUNCLINE>10</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\bart\Desktop\zooprojekt\zooprojekt\</FILEPATH>
+      <FILENAME>Bilet.cpp</FILENAME>
+      <LINE>25</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>Ten rodzaj funkcji nie powinna zgłaszać (throw). Zadeklaruj ją jako 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>Bilet::=</FUNCTION>
+    <DECORATED>??4Bilet@@QEAAAEAV0@$$QEAV0@@Z</DECORATED>
+    <FUNCLINE>25</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

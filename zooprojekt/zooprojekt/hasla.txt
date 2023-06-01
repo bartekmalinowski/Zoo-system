@@ -1,0 +1,9 @@
+admin,admin123
+jan_kowalski,jkowalski1
+anna_nowak,anowak1
+emi,emijanosz1010
+johndoe,JD123
+sarahsmith,Password123
+michaelsullivan,MSullivan!23
+emilyjones,EJ456
+davidbrown,Dbrown789

@@ -1,0 +1,5 @@
+Normalny,25
+Ulgowy,13
+Seniorski,15
+Rodzinny(2+2),65
+Roczny,125

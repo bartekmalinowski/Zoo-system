@@ -1,0 +1,101 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26439",
+          "message": {
+            "text": "Ten rodzaj funkcji nie powinna zgłaszać (throw). Zadeklaruj ją jako 'noexcept' (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/bart/Desktop/zooprojekt/zooprojekt/Bilet.cpp"
+                },
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 8,
+                  "endLine": 10,
+                  "endColumn": 8
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Bilet::{ctor}",
+                  "decoratedName": "??0Bilet@@QEAA@$$QEAV0@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26439",
+          "message": {
+            "text": "Ten rodzaj funkcji nie powinna zgłaszać (throw). Zadeklaruj ją jako 'noexcept' (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/bart/Desktop/zooprojekt/zooprojekt/Bilet.cpp"
+                },
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 15,
+                  "endLine": 25,
+                  "endColumn": 15
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Bilet::=",
+                  "decoratedName": "??4Bilet@@QEAAAEAV0@$$QEAV0@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.34.31933.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/Users/bart/Desktop/zooprojekt/zooprojekt/Bilet.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "1dfe59dc6401eab684fb5d860a3442d707b96ee67c4f12336df727ad5d527203"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/bart/desktop/zooprojekt/zooprojekt/bilet.h"
+          },
+          "hashes": {
+            "sha-256": "b4de0c98b243dff1fa69312676d40fa3cd3e1e6067e15269105c742a720ffe66"
+          }
+        }
+      ]
+    }
+  ]
+}

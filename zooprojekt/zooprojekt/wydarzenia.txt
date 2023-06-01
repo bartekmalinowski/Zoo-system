@@ -1,0 +1,18 @@
+Karmienie koali,10:00,sobota
+Karmienie lwow,12:30,codziennie
+Pokaz delfinow,14:00,poniedzialek
+Spotkanie z pingwinami,11:00,sroda
+Karmienie rekinow,15:30,wtorek
+Karmienie sloni,09:30,wto-sob
+Pokaz papug,13:00,poniedzialek
+Spacer z kangurami,16:00,sroda
+Prezentacja weza,11:30,piatek
+Karmienie zolwi,14:30,codziennie
+Karmienie niedzwiedzi,15:00,codziennie
+Prezentacja lampartow,11:00,poniedzialek
+Spacer z alpakami,14:30,sroda
+Pokaz orlow,13:30,wtorek
+Karmienie zubrow,10:30,piatek
+Spotkanie z surykatami,16:30,sobota
+Pokaz hipopotamow,12:00,poniedzialek
+Karmienie pingwinow,14:00,codziennie

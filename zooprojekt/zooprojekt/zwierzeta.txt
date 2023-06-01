@@ -1,0 +1,26 @@
+gad,krokodyl,Nilowy krokodyl,Afryka,mieso,70,lato,1,plaz,pelza,400
+plaz,waran,Komodo,Indonezja,mieso,30,cieply klimat,0,brazowy,jajorodne
+ryba,rekin,Bialy rekin,Pacyfik,mieso,25,lato,1,5.5,duze,padlina
+ssak,lis,Czerwony lis,Europa,mieso i rosliny,10,caly rok,0,4,nocny
+ptak,sojka,Kawka,Europa,owady i nasiona,7,wiosna i lato,0,35,platforma,0
+gad,waz,Pyton tygrysi,Azja,mieso,20,lato,0,czarny,niejajorodne
+plaz,jezowka,Gila,Ameryka Polnocna,owady,25,caly rok,0,brazowy,niejajorodne
+ryba,dorsz,Dorsz atlantycki,Atlantyk,ryby,20,zima,1,1.2,male,skrzeloksztaltne
+ssak,kangur,Czerwony kangur,Australia,trawa i liscie,12,caly rok,0,2.5,skokowy
+ptak,papuga,Kakadu,Australia,owoce i nasiona,60,caly rok,0,50,korona,0
+gad,jaszczurka,Agama,Ameryka Poludniowa,owady,5,lato,0,zielony,jajorodne
+plaz,zolw,Zlocisty zolw,Ameryka Polnocna,rosliny,80,wiosna,0,30,skaliste,jajorodne
+ryba,losos,Losos atlantycki,Polnocny Ocean Atlantycki,krewetki i ryby,10,jesien,0,1.5,srednie,pletwy
+ssak,niedzwiedz,Niedzwiedz brunatny,Ameryka Polnocna i Eurazja,rosliny i mieso,25,caly rok,0,2.5,duze,zmiennodzielne
+ptak,sojka,Sojka euroazjatycka,Eurazja,owady i nasiona,7,caly rok,0,35,gniazdo,0
+ssak,koala,Koala austarijska,Australia,rosliny eukaliptusowe,10,lato,0,20,nocny
+ssak,lew,Lew afrykanski,Afryka,mieso,20,caly rok,1,20,dzienny
+ssak,delfin,Delfin zwyczajny,Oceany,miesozerny,30,wiosna i lato,0,0,dzienny
+ptak,pingwin,Pingwin cesarski,Antarktyda i inne obszary polarnere,ryby i krewetki,15,zima i wiosna,0,30,w norze,0
+ssak,slon,Slon afrykanski,Afryka i Azja,rosliny i trawa,60,caly rok,0,20,dzienny
+ssak,lampart,Lampart plamisty,Afryka i Azja,miesozerny,15,caly rok,0,20,dzienny
+ssak,alpaka,Alpaka vicunga,Ameryka Poludniowa,trawa,17,lato,0,20,dzienny
+ptak,orzel,Orzel bialy,Europa,mieso,25,caly rok,1,50,na drzewie,tak
+ssak,zubr,Zubr europejski,Europa,trawa i krzewy,20,caly rok,1,20,dzienny
+ssak,surykatka,Surykatka szara,Afryka,owady i male zwierzeta,10,caly rok,1,20,dzienny
+ssak,hipopotam,Hipopotam nilowy,Afryka,rosliny i trawa,35,caly rok,0,16,dzienny
